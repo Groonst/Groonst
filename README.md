@@ -97,7 +97,5 @@ A sophisticated production data extraction tool I developed to streamline manufa
   <img src="assets/XML_CAD_Extractor.gif" width="700">
 </div>
 
-
-
-
-[My Email](mailto:groonst@gmail.com) | [Linkedin Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
+---
+Groonst@gmail.com | [Linkedin Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
