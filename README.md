@@ -61,7 +61,7 @@ A complete maze adventure game developed as part of my Python studies, showcasin
 
 **Maze Game Demo:**
 <div style="padding-left: 20px; display: inline-block;">
-  <img src="assets/Maze_Game.gif" width="600">
+  <img src="assets/Maze_Game.gif" width="700">
 </div>
 
 ---
@@ -92,7 +92,12 @@ A sophisticated production data extraction tool I developed to streamline manufa
 - Demonstrates problem-solving in industrial environments
 - Highlights my understanding of production data workflows
 
+**XML CAD Extractor Demo:**
+<div style="padding-left: 20px; display: inline-block;">
+  <img src="assets/XML_CAD_Extractor.gif" width="700">
+</div>
 
 
 
-[My Email](groonst@gmail.com) | [Linkedin Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
+
+[My Email](mailto:groonst@gmail.com) | [Linkedin Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
