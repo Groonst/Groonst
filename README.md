@@ -9,6 +9,9 @@ After falling in love with coding, I've dedicated 400+ hours to structured learn
 - 📊 Currently taking **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
 - 🔜 Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
 
+## 📜 Certifications
+- [Python Programming MOOC 2024 Certificate](https://certificates.mooc.fi/validate/x1s80pljmp)
+
 ## 🌟 What I Bring to the Table
 - **Problem-solving mindset** from manufacturing technology applied to coding challenges
 - **Analytical skills** that translate well to data processing and algorithm design
