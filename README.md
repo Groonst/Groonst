@@ -7,7 +7,7 @@ After falling in love with coding, I've dedicated 400+ hours to structured learn
 ## 🛠️ Technical Journey
 - ✅ Completed **Python Programming MOOC 2024** (270 hours) - mastered OOP, algorithms, and software development principles
 - 📊 Currently taking **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
-- 🔜 Future focus: **Machine Learning & AI** - excited about intelligent systems and their real-world applications
+- 🔜 Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
 
 ## 🌟 What I Bring to the Table
 - **Problem-solving mindset** from manufacturing technology applied to coding challenges
