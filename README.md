@@ -32,34 +32,6 @@ I'm always open to:
 
 ## 🚀 My Projects
 
-### XML CAD Extractor (Professional Utility Tool)
-**Python | XML Processing | Data Extraction | File Management**
-
-🔗 [GitHub Repository](https://github.com/Groonst/XML_CAD_Extractor)
-
-A sophisticated production data extraction tool I developed to streamline manufacturing workflows. This utility demonstrates my ability to create practical solutions for real-world problems.
-
-**Key Features:**
-- Extracts CAD file references and material data from production XML files
-- Interactive console interface with configurable settings via JSON
-- Intelligent file management with automatic folder creation
-- Data validation and error handling for production orders
-- Generates standardized output XML for system integration
-
-**Technical Highlights:**
-- Uses `lxml` for efficient XML parsing and generation
-- Implements configurable paths and settings via JSON
-- Features comprehensive file system operations
-- Includes user-friendly input validation
-- Demonstrates clean code architecture with separated functions
-
-**Professional Relevance:**
-- Shows my ability to bridge manufacturing and IT domains
-- Demonstrates problem-solving in industrial environments
-- Highlights my understanding of production data workflows
-
----
-
 ### Maze Game (Python Game Development)
 **Python | PyGame | OOP | Game Logic**
 
@@ -87,4 +59,40 @@ A complete maze adventure game developed as part of my Python studies, showcasin
 - Problem-solving in implementing game mechanics
 - Creativity in expanding basic assignment requirements
 
-[My Email](groonst@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
+**Maze Game Demo:**
+<div style="padding-left: 20px; display: inline-block;">
+  <img src="assets/Maze_Game.gif" width="600">
+</div>
+
+---
+
+### XML CAD Extractor (Professional Utility Tool)
+**Python | XML Processing | Data Extraction | File Management**
+
+🔗 [GitHub Repository](https://github.com/Groonst/XML_CAD_Extractor)
+
+A sophisticated production data extraction tool I developed to streamline manufacturing workflows. This utility demonstrates my ability to create practical solutions for real-world problems.
+
+**Key Features:**
+- Extracts CAD file references and material data from production XML files
+- Interactive console interface with configurable settings via JSON
+- Intelligent file management with automatic folder creation
+- Data validation and error handling for production orders
+- Generates standardized output XML for system integration
+
+**Technical Highlights:**
+- Uses `lxml` for efficient XML parsing and generation
+- Implements configurable paths and settings via JSON
+- Features comprehensive file system operations
+- Includes user-friendly input validation
+- Demonstrates clean code architecture with separated functions
+
+**Professional Relevance:**
+- Shows my ability to bridge manufacturing and IT domains
+- Demonstrates problem-solving in industrial environments
+- Highlights my understanding of production data workflows
+
+
+
+
+[My Email](groonst@gmail.com) | [Linkedin Profile](https://www.linkedin.com/in/michal-filipek-4b6192161)
