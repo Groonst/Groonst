@@ -18,7 +18,7 @@ After falling in love with coding, I've dedicated 400+ hours to structured learn
 - **Self-motivation** demonstrated by completing intensive courses while working full-time
 - **Continuous learning** attitude - constantly expanding my tech stack
 
-## 🎯 2024 Goals
+## 🎯 2025 Goals
 - Land my first professional developer role
 - Contribute to open source projects
 - Build a portfolio of 5+ substantial projects
