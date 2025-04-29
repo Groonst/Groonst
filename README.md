@@ -60,7 +60,7 @@ A sophisticated production data extraction tool I developed to streamline manufa
 ### Maze Game (Python Game Development)
 **Python | PyGame | OOP | Game Logic**
 
-🔗 [GitHub Repository](https://github.com/Groonst/maze-game)
+🔗 [GitHub Repository](https://github.com/Groonst/Maze_Game)
 
 A complete maze adventure game developed as part of my Python studies, showcasing my object-oriented programming skills and creative approach to assignments.
 
