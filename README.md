@@ -32,6 +32,46 @@ I'm always open to:
 
 ## 🚀 My Projects
 
+### Stroke risk factors analysis (Data science project)
+**Python | Pandas | Statistical Analysis | Data Visualization | Jupyter Notebook**
+
+🔗 [GitHub Repository](https://github.com/Groonst/Stroke_analysis)
+
+A comprehensive statistical analysis of stroke risk factors using healthcare data, demonstrating data science skills and ability to derive clinically relevant insights.
+
+**Key Findings:**
+- Age is the strongest predictor (median 71 vs 43 years, p<0.001)
+- Elevated glucose levels increase risk (+15% median, p<0.001)
+- Hypertension patients have 3.3× higher stroke prevalence
+- Heart disease patients show 4.1× higher stroke occurrence
+
+**Analysis Features:**
+- Automated data cleaning (BMI imputation, categorical conversion)
+- Advanced statistical testing (t-tests, chi-square)
+- Publication-quality visualizations (Seaborn/Matplotlib)
+- Clinical significance evaluation (-log10 p-values)
+- Presentation-ready output formatting
+
+**What It Demonstrates:**
+- Proficiency in Python data science stack (Pandas, NumPy, SciPy)
+- End-to-end statistical analysis capabilities
+- Ability to translate technical findings into actionable insights
+- Strong data visualization skills
+- Professional results presentation
+
+**Clinical Recommendations:**
+- Prioritize screening for patients >70 years (3× higher risk)
+- Aggressive blood pressure control for hypertensive patients
+- Annual glucose checks for patients >50 years
+- Enhanced cardiac monitoring for heart disease patients
+
+**Analysis screenshots:**
+<div style="padding-left: 20px; display: inline-block;">
+  <img src="assets/Stroke_risk_analysis.gif" width="700">
+</div>
+
+---
+
 ### Maze Game (Python Game Development)
 **Python | PyGame | OOP | Game Logic**
 
