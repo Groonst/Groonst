@@ -2,11 +2,11 @@
 
 🚀 Manufacturing Technologist transitioning into IT Development with a passion for Python, data, and AI. 
 
-After falling in love with coding, I've dedicated 400+ hours to structured learning and personal projects. Now I'm looking to turn my passion into profession!
+After falling in love with coding, I've dedicated 500+ hours to structured learning and personal projects. Now I'm looking to turn my passion into profession!
 
 ## 🛠️ Technical Journey
 - ✅ Completed **Python Programming MOOC 2024** (270 hours) - mastered OOP, algorithms, and software development principles
-- 📊 Currently taking **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
+- 📊 Completed - awaiting reults of **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
 - 🔜 Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
 
 ## 📜 Certifications
