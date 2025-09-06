@@ -20,6 +20,7 @@ After falling in love with coding, I've dedicated 400+ hours to structured learn
 
 ## 🎯 2025 Goals
 - Land my first professional developer role
+- Start my Bachelor's degree in Computer Science
 - Contribute to open source projects
 - Build a portfolio of 5+ substantial projects
 - Network with the tech community
