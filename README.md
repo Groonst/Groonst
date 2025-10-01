@@ -7,7 +7,7 @@ After falling in love with coding, I've dedicated 500+ hours to structured learn
 ## Technical Journey
 - Completed **Python Programming MOOC 2024** (270 hours) - mastered OOP, algorithms, and software development principles
 - Completed **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
-- Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
+- Future focus: **More Machine Learning and AI** - excited about intelligent systems and their real-world applications
 
 ## Certifications
 - [Python Programming MOOC 2024 Certificate](https://certificates.mooc.fi/validate/x1s80pljmp) - [Copy of the certificate (if validated certificate on MOOC doesn't work](https://github.com/Groonst/Groonst/blob/main/assets/Python%20Programming%20MOOC%20Certificate.pdf)
