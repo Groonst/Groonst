@@ -10,7 +10,8 @@ After falling in love with coding, I've dedicated 500+ hours to structured learn
 - Future focus: **More Machine Learning and AI** - excited about intelligent systems and their real-world applications
 
 ## Certifications
-- [Python Programming MOOC 2024 Certificate](https://certificates.mooc.fi/validate/x1s80pljmp) - [Copy of the certificate (if validated certificate on MOOC doesn't work](https://github.com/Groonst/Groonst/blob/main/assets/Python%20Programming%20MOOC%20Certificate.pdf)
+- [Data Analysis with Python 2025 Certificate](https://courses.mooc.fi/certificates/validate/7wtvdufm633n6kh)
+- [Python Programming MOOC 2024 Certificate](https://certificates.mooc.fi/validate/x1s80pljmp)
 
 ## What I Bring to the Table
 - **Problem-solving mindset** from manufacturing technology applied to coding challenges
