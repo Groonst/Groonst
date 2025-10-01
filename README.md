@@ -1,37 +1,37 @@
-# About Me 👋
+# About Me
 
-🚀 Manufacturing Technologist transitioning into IT Development with a passion for Python, data, and AI. 
+Production technologist with experience in IT development and a passion for Python, data, and artificial intelligence. 
 
 After falling in love with coding, I've dedicated 500+ hours to structured learning and personal projects. Now I'm looking to turn my passion into profession!
 
-## 🛠️ Technical Journey
-- ✅ Completed **Python Programming MOOC 2024** (270 hours) - mastered OOP, algorithms, and software development principles
-- 📊 Completed - awaiting reults of **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
-- 🔜 Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
+## Technical Journey
+- Completed **Python Programming MOOC 2024** (270 hours) - mastered OOP, algorithms, and software development principles
+- Completed **Data Analysis with Python 2024-2025** (135 hours) - focusing on Pandas, NumPy, and Machine Learning
+- Future focus: **More Machine Learning & AI** - excited about intelligent systems and their real-world applications
 
-## 📜 Certifications
+## Certifications
 - [Python Programming MOOC 2024 Certificate](https://certificates.mooc.fi/validate/x1s80pljmp) - [Copy of the certificate (if validated certificate on MOOC doesn't work](https://github.com/Groonst/Groonst/blob/main/assets/Python%20Programming%20MOOC%20Certificate.pdf)
 
-## 🌟 What I Bring to the Table
+## What I Bring to the Table
 - **Problem-solving mindset** from manufacturing technology applied to coding challenges
 - **Analytical skills** that translate well to data processing and algorithm design
 - **Self-motivation** demonstrated by completing intensive courses while working full-time
 - **Continuous learning** attitude - constantly expanding my tech stack
 
-## 🎯 2025 Goals
+## 2025 Goals
 - Land my first professional developer role
 - Start my Bachelor's degree in Computer Science
 - Contribute to open source projects
 - Build a portfolio of 5+ substantial projects
 - Network with the tech community
 
-## 📫 Let's Connect!
+## Let's Connect!
 I'm always open to:
 - Collaborations on interesting projects
 - Learning opportunities and mentorship
 - Discussions about tech and career transitions
 
-## 🚀 My Projects
+## My Projects
 
 ### Stroke risk factors analysis (Data science project)
 **Python | Pandas | Statistical Analysis | Data Visualization | Jupyter Notebook**
